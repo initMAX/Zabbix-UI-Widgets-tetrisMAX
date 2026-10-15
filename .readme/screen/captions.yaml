@@ -1,0 +1,9 @@
+01-overview.png:
+  en: "Play a complete Tetris game directly inside a Zabbix dashboard without sending or storing monitoring data."
+  cs: "Hrajte plnohodnotný Tetris přímo v dashboardu Zabbixu bez odesílání nebo ukládání monitorovacích dat."
+02-board.png:
+  en: "The board mid-game: next piece, time, level and lines on the right, the stack height against Zabbix's severity colours on the left."
+  cs: "Herní plocha během hry: vpravo další dílek, čas, úroveň a řádky, vlevo výška hromady proti barvám závažností Zabbixu."
+06-settings.png:
+  en: "One setting - the speed the game opens at. Everything else about Tetris is decided by playing it."
+  cs: "Jedno nastavení - rychlost, kterou hra začíná. Vše ostatní o Tetrisu se rozhodne hraním."
